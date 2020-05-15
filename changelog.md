@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2020-05-15
+- New data-current-page attribute
+
 ## [1.0.1] - 2019-11-16
 - Fixed typo in the data-threshold attribute
 
